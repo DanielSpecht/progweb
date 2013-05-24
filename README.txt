@@ -1,1 +1,1 @@
-Site da disciplina = http://cursos.meslin.com.br/home/jsp
+Site da disciplina - http://cursos.meslin.com.br/home/jsp
